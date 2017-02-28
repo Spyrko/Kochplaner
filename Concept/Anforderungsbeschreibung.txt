@@ -1,0 +1,9 @@
+-Rezept erstellen/löschen/bearbeiten/anzeigen
+-Zutaten erstellen/löschen/bearbeiten/anzeigen
+-Einkaufsliste erstellen/löschen/bearbeiten/anzeigen
+-Berücksichtigung der Personenzahl bei anzeigen von Rezepten und einkaufswagenplanung
+-Einkaufsliste anhand von Rezepten erstellen
+-Tusätzliche dinge / Zutaten auf einkaufsliste schreiben (auch freitext)
+-Synchronisieren
+-Rezepte durchsuchen
+-Resteverwertung
